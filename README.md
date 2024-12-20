@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Willames Yano</h1>
 <h3 align="center">Fullstack developer driven by creativity and innovation</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willamesyano&label=Profile%20views&color=0e75b6&style=flat" alt="willamesyano" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willamesyano" alt="willamesyano" /></a> </p>
-
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <p align="left"> <a href="https://twitter.com/willamesyano" target="blank"><img src="https://img.shields.io/twitter/follow/willamesyano?logo=twitter&style=for-the-badge" alt="willamesyano" /></a> </p>
 
 <a target="_blank" align="center">
