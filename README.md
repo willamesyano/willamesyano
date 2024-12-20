@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/willamesyano" target="blank"><img src="https://img.shields.io/twitter/follow/willamesyano?logo=twitter&style=for-the-badge" alt="willamesyano" /></a> </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/willamesyano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willamesyano" height="30" width="40" /></a>
