@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Willames Yano, fullstack developer">
-<title>Willames Yano, fullstack developer</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Willames Yano, senior software engineer. 14+ years building Java and Angular systems for city governments and financial services.">
+<title>Willames Yano, senior software engineer. 14+ years building Java and Angular systems for city governments and financial services.</title>
 <defs>
   <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
     <circle cx="2" cy="2" r="1.4" fill="#30363d"/>
@@ -25,11 +25,11 @@
   <rect x="560" y="1" width="639" height="318" fill="url(#dots)" mask="url(#fadeMask)"/>
 </g>
 <circle class="pulse" cx="70" cy="91" r="5" fill="#4ea8de"/>
-<text x="88" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3" fill="#4ea8de">FULLSTACK DEVELOPER</text>
+<text x="88" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3" fill="#4ea8de">SENIOR SOFTWARE ENGINEER · FULLSTACK</text>
 <text x="64" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#e6edf3">Willames Yano</text>
 <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="23" fill="#9198a1">
-  <tspan x="66" y="224">I build web applications end to end:</tspan>
-  <tspan x="66" y="256">interface, services, data and infrastructure.</tspan>
+  <tspan x="66" y="224"><tspan font-weight="700" fill="#e6edf3">14+ years</tspan> building Java and Angular systems</tspan>
+  <tspan x="66" y="256">for city governments and financial services.</tspan>
 </text>
 <g stroke="#4ea8de" stroke-width="2" fill="none">
   <path class="flow" d="M854 94 V132"/>
