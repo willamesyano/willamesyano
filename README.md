@@ -13,5 +13,5 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/willamesyano"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img src="assets/linkedin-light.svg" height="56" alt="LinkedIn in/willamesyano"></picture></a>&nbsp;&nbsp;<a href="https://x.com/willamesyano"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/x-dark.svg"><img src="assets/x-light.svg" height="56" alt="X @willamesyano"></picture></a>
+  <a href="https://willamesyano.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg"><img src="assets/website-light.svg" height="56" alt="Website willamesyano.github.io"></picture></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/willamesyano"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img src="assets/linkedin-light.svg" height="56" alt="LinkedIn in/willamesyano"></picture></a>&nbsp;&nbsp;<a href="https://x.com/willamesyano"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/x-dark.svg"><img src="assets/x-light.svg" height="56" alt="X @willamesyano"></picture></a>
 </p>
