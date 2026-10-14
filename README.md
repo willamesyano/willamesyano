@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Willames Yano</h1>
 <h3 align="center">Fullstack developer driven by creativity and innovation</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willamesyano&label=Profile%20views&color=0e75b6&style=flat" alt="willamesyano" /> </p>
+<p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=willamesyano&label=Profile%20views&countColor=%230e75b6&style=flat" alt="willamesyano" /> </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
