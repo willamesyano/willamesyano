@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Willames Yano, fullstack developer">
+<title>Willames Yano, fullstack developer</title>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.4" fill="#30363d"/>
+  </pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="0.45" stop-color="#fff" stop-opacity="1"/>
+  </linearGradient>
+  <mask id="fadeMask"><rect x="560" y="1" width="639" height="318" fill="url(#fade)"/></mask>
+  <clipPath id="cardClip"><rect x="1" y="1" width="1198" height="318" rx="16"/></clipPath>
+</defs>
+<style>
+  .flow { stroke-dasharray: 4 6; }
+  @media (prefers-reduced-motion: no-preference) {
+    .flow { animation: flow 1.6s linear infinite; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  }
+  @keyframes flow { to { stroke-dashoffset: -20; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+</style>
+<rect x="1" y="1" width="1198" height="318" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<g clip-path="url(#cardClip)">
+  <rect x="560" y="1" width="639" height="318" fill="url(#dots)" mask="url(#fadeMask)"/>
+</g>
+<circle class="pulse" cx="70" cy="91" r="5" fill="#4ea8de"/>
+<text x="88" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3" fill="#4ea8de">FULLSTACK DEVELOPER</text>
+<text x="64" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#e6edf3">Willames Yano</text>
+<text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="23" fill="#9198a1">
+  <tspan x="66" y="224">I build web applications end to end:</tspan>
+  <tspan x="66" y="256">interface, services, data and infrastructure.</tspan>
+</text>
+<g stroke="#4ea8de" stroke-width="2" fill="none">
+  <path class="flow" d="M854 94 V132"/>
+  <path class="flow" d="M854 188 V226"/>
+  <path class="flow" d="M952 160.0 H980"/>
+</g>
+<rect x="756" y="38" width="196" height="56" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="774" cy="66.0" r="4" fill="#4ea8de"/>
+<text x="788" y="61" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#6e7681">CLIENT</text>
+<text x="788" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="18" font-weight="600" fill="#e6edf3">Angular</text>
+<rect x="756" y="132" width="196" height="56" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="774" cy="160.0" r="4" fill="#4ea8de"/>
+<text x="788" y="155" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#6e7681">API</text>
+<text x="788" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="18" font-weight="600" fill="#e6edf3">Spring</text>
+<rect x="756" y="226" width="196" height="56" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="774" cy="254.0" r="4" fill="#4ea8de"/>
+<text x="788" y="249" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#6e7681">DATA</text>
+<text x="788" y="270" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="18" font-weight="600" fill="#e6edf3">PostgreSQL</text>
+<rect x="980" y="132" width="156" height="56" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="998" cy="160.0" r="4" fill="#4ea8de"/>
+<text x="1012" y="155" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#6e7681">EVENTS</text>
+<text x="1012" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" font-size="18" font-weight="600" fill="#e6edf3">Kafka</text>
+</svg>
